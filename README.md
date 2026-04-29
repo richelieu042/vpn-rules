@@ -1,1 +1,4 @@
-规则文件，适用于: Loon(ios App).
+规则文件，适用于:
+
+- Loon(ios)
+- sing-box
