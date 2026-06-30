@@ -2,3 +2,4 @@
 
 - Loon(ios)
 - sing-box
+# vpn-rules
