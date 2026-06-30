@@ -2,7 +2,7 @@
 # 苹果推送，参考：
 # （1）https://www.nodeseek.com/post-709310-1
 # （2）https://raw.githubusercontent.com/QuixoticHeart/rule-set/refs/heads/ruleset/loon/apns.list
-# PS: 还需要开启代理工具（e.g. Loon）的 APNS.
+# PS: 除了设置分流，还需要开启代理工具（e.g. Loon）的 APNS.
 
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,akadns.net
