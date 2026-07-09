@@ -1,8 +1,3 @@
-DOMAIN-SUFFIX,bgp.starrail.cc
-
-# LaLa Network目前只能国内访问
-DOMAIN-SUFFIX,lala.gg
-
-# DMIT
-# /24 (C类网段): 154.26.178.0/24 (范围: 154.26.178.0 - 154.26.178.255)
-IP-CIDR,154.26.178.0/24
+### DMIT
+DOMAIN-SUFFIX,dmit.io
+IP-CIDR,179.255.124.0/24
