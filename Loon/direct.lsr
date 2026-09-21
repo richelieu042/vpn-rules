@@ -1,5 +1,9 @@
 # DIRECT
 
-### DMIT
+#### DMIT
 DOMAIN-SUFFIX,dmit.io
 IP-CIDR,179.255.124.0/24
+
+#### 电影天堂（https://caiji.dyttzyapi.com/）
+DOMAIN-SUFFIX,dyttzyapi.com
+DOMAIN-SUFFIX,dytt-network.com
