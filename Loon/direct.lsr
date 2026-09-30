@@ -7,3 +7,10 @@ IP-CIDR,179.255.124.0/24
 #### 电影天堂（https://caiji.dyttzyapi.com/）
 DOMAIN-SUFFIX,dyttzyapi.com
 DOMAIN-SUFFIX,dytt-network.com
+
+#### 永中
+DOMAIN-SUFFIX,yozodcs.com
+DOMAIN-SUFFIX,yozodoc.com
+DOMAIN-SUFFIX,yozodocs.com
+DOMAIN-SUFFIX,yozooffice.com
+DOMAIN-SUFFIX,yozosoft.com
