@@ -1,7 +1,7 @@
 # YOZO局域网专属，应该选 DIRECT
 
+DOMAIN,gitlab.yozosoft.com,DIRECT
 DOMAIN,mail.yozosoft.com
-DOMAIN,gitlab.yozosoft.com
 DOMAIN,yup.yozosoft.com
 DOMAIN,auth.yozosoft.com
 DOMAIN,oaview.yozosoft.com
