@@ -1,0 +1,9 @@
+# YOZO局域网专属
+
+DOMAIN,mail.yozosoft.com
+DOMAIN,gitlab.yozosoft.com
+DOMAIN,yup.yozosoft.com
+DOMAIN,auth.yozosoft.com
+DOMAIN,oaview.yozosoft.com
+DOMAIN,oa.yozosoft.com
+DOMAIN,csms.yozosoft.com
